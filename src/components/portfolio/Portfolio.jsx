@@ -11,17 +11,17 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Test 1 Project',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'My Portfolio Website',
+    github: 'https://github.com/pandeydurgesh011/Portfolio',
+    demo: 'https://pandeydurgesh011.github.io/Portfolio/#'
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Test 2 Project',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Lazy Shuriken Bot',
+    github: 'https://github.com/pandeydurgesh011/RZP_Hackathon_ChatBot',
+    demo: 'https://github.com/pandeydurgesh011/RZP_Hackathon_ChatBot/blob/main/Screenshot%202023-04-08%20at%208.46.53%20PM.png'
   },
 
   {
