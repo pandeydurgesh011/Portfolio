@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0585fdf5.css",
+    "main.js": "/Portfolio/static/js/main.32b2c0ff.js",
+    "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me-about.jpeg": "/Portfolio/static/media/me-about.f3cb1fadfb1b80ffa9cb.jpeg",
+    "static/media/Durgesh_Pandey.pdf": "/Portfolio/static/media/Durgesh_Pandey.52a79d8f1f9c5cc537cd.pdf",
+    "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/me.png": "/Portfolio/static/media/me.1fbd03c0b79e8ebcfd38.png",
+    "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.e6f61de581fd3346b14b.jpg",
+    "static/media/portfolio2.jpg": "/Portfolio/static/media/portfolio2.b6c36fb8524c6f6a0115.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.0585fdf5.css.map": "/Portfolio/static/css/main.0585fdf5.css.map",
+    "main.32b2c0ff.js.map": "/Portfolio/static/js/main.32b2c0ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0585fdf5.css",
+    "static/js/main.32b2c0ff.js"
+  ]
+}
